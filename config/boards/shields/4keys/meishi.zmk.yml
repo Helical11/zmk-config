@@ -1,0 +1,9 @@
+file_format: "1"
+id: meishi
+name: meishi
+type: shield
+url: https://github.com/Helical11/zmk-config
+requires:
+    - seeeduino_xiao_rp2040
+features:
+    - keys
